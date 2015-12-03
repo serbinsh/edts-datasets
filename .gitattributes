@@ -1,0 +1,2 @@
+edts_data_reduced_v3_nocax.tgz filter=lfs diff=lfs merge=lfs -text
+*.tgz filter=lfs diff=lfs merge=lfs -text
